@@ -1,2 +1,2 @@
-edited from master
+conflict resolved!
 12th change
